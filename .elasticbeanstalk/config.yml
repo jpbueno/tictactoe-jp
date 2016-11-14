@@ -1,0 +1,11 @@
+branch-defaults:
+  master:
+    environment: tictactoeDev-env
+    group_suffix: null
+global:
+  application_name: tictactoeDev-env
+  default_ec2_keyname: us-east-1
+  default_platform: 64bit Amazon Linux 2016.09 v2.2.0 running Python 3.4
+  default_region: us-east-1
+  profile: eb-cli
+  sc: git
